@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tonystark4492.twa",
+        "sha256_cert_fingerprints": ["1F:C7:A6:58:CB:61:A0:DA:01:C0:F5:82:A9:06:51:04:49:81:46:10:2C:CD:12:31:6C:82:AD:2D:18:40:3A:AD"]
+      }
+    }]
